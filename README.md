@@ -1,4 +1,4 @@
-[Проект "Посмотри в окно"](https://github.com/RomaGenZa/posmotri_v_okno)
+[Проект "Посмотри в окно"](https://romagenza.github.io/posmotri_v_okno/)
 
 - Позиционирование прелоадеров
 - Элементы формы и кнопки
